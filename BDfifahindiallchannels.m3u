@@ -707,6 +707,26 @@ https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-15
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1280px-Fox_Movies_%28Asia%29_logo.svg.png" tvg-name="FOX MOVIESS" group-title="MOVIES",FOX MOVIESS http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d7/Fox_Movies_Premium_logo.svg/939px-Fox_Movies_Premium_logo.svg.png" tvg-name="FOX MOVIESS PREMIUM" group-title="MOVIES",FOX MOVIESS PREMIUM http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3b/Fox_%287%29.png/revision/latest?cb=20170228215758&path-prefix=es" tvg-name="FOX MOVIESSCOMEDY" group-title="MOVIES",FOX MOVIESS COMEDY http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/2000px-Fox_Sports_1_logo.svg.png" tvg-name="FOX SPORT 1" group-title="SPORT",FOX SPORT 1 http://45.58.62.92:8080
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/2000px-Fox_sports_3_logo.svg.png" tvg-name="FOX SPORT 3" group-title="SPORT",FOX SPORT 3 http://210.210.155.35/uq2663/h/h21/index1.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0f/FSRacing.jpg/revision/latest?cb=20150907222429" tvg-name="FOX SPORT RACING" group-title="SPORT",FOX SPORT RACING http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+#EXTINF:-1,FOX group-title=" movie" http://161.0.157.5/PLTV/88888888/224/3221226321/index.m3u8
+#EXTINF:-1,FOX SPORT group-title="SPORT" http://161.0.157.5/PLTV/88888888/224/3221226181/index.m3u8
+#EXTINF:-1,FOX CINEMA group-title="movie" http://161.0.157.5/PLTV/88888888/224/3221226793/index.m3u8
+#EXTINF:-1,FOX COMEDY group-title="movie" http://161.0.157.5/PLTV/88888888/224/3221226800/index.m3u8
+#EXTINF:-1,FOX (1080) (M) group-title="movie" http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/17050
+#EXTINF:-1,Fox Premium Action [1080] [Dual Audio] group-title="movie" http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/75932
+#EXTINF:-1,Fox Premium Action(1080). group-title="movie" http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/14863
+#EXTINF:-1,Fox Premium Action HD [Dual Audio] group-title="movie" http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/75892
+
+
+
+
+
+
 #EXTINF:-1,Joy
 https://nomawnoijl.gpcdn.net/akash/joy/playlist.m3u8
 #EXTINF:-1,Funny Junior HD
