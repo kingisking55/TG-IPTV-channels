@@ -714,7 +714,7 @@ https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-15
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/2000px-Fox_sports_3_logo.svg.png" tvg-name="FOX SPORT 3" group-title="SPORT",FOX SPORT 3 http://210.210.155.35/uq2663/h/h21/index1.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0f/FSRacing.jpg/revision/latest?cb=20150907222429" tvg-name="FOX SPORT RACING" group-title="SPORT",FOX SPORT RACING http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
 #EXTINF:-1 group-title="movie", FOX http://161.0.157.5/PLTV/88888888/224/3221226321/index.m3u8
-#EXTINF:-1,FOX SPORT group-title="SPORT" http://161.0.157.5/PLTV/88888888/224/3221226181/index.m3u8
+#EXTINF:-1 group-title="SPORT",FOX SPORT http://161.0.157.5/PLTV/88888888/224/3221226181/index.m3u8
 #EXTINF:-1 group-title="movie", FOX CINEMA http://161.0.157.5/PLTV/88888888/224/3221226793/index.m3u8
 #EXTINF:-1 group-title="movie",FOX COMEDY http://161.0.157.5/PLTV/88888888/224/3221226800/index.m3u8
 #EXTINF:-1 group-title="movie",FOX (1080) (M) http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/17050
