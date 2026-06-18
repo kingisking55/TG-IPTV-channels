@@ -673,6 +673,66 @@ http://103.145.48.150:90/laosat24/taratv/index.m3u8
 https://cdn3.pishow.tv/live/283/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sangeet%20Bangla.jpeg" group-title="Kolkata Bangla Music",Sangeet Bangla
 
+#EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in@HD",Sony Entertainment Television HD (1080p)
+http://stb-air.wasmer.app/play.php?id=LIVETV_LIVETVCHANNEL_SET_HD&pass=krish-ka&uid=gana-sunega
+#EXTINF:-1 tvg-id="SonyMarathi.in@SD",Sony Marathi (1080p) [Geo-blocked]
+https://sl.vodep39240327.workers.dev/channel/SONY+MARATHI.m3u8
+#EXTINF:-1 tvg-id="SonyMax2.in@SD",Sony Max 2 (576p)
+http://149.71.34.166:8000/play/a00z/index.m3u8
+#EXTINF:-1 tvg-id="SonyPix.in@HD",Sony Pix HD (1080p) [Geo-blocked]
+https://sl.vodep39240327.workers.dev/channel/SONY+PIX+HD.m3u8
+#EXTINF:-1 tvg-id="SonySportsTen3Hindi.in@SD",Sony Sports Ten 3 Hindi (576p)
+http://103.229.254.25:7001/play/a09q/index.m3u8
+#EXTINF:-1 tvg-id="SonyWah.in@SD",Sony Wah (1080p) [Geo-blocked]
+https://sl.vodep39240327.workers.dev/channel/SONY+WAH.m3u8
+#EXTINF:-1 tvg-id="SonyYay.in@SD",Sony Yay! (1080p) [Geo-blocked]
+https://sl.vodep39240327.workers.dev/channel/SONY+YAY.m3u8
+#EXTINF:-1 tvg-id="SouthStation.in@HD",South Station (1080p)
+https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
+#EXTINF:-1 tvg-id="StarBharat.in@SD",Star Bharat (576p)
+http://103.253.18.58:8000/play/a00u
+#EXTINF:-1 tvg-id="",Star Family (576p) [Not 24/7]
+http://c0.cdn.trinity-tv.net/stream/zfmjgma9zn46fa797ez9fgkw7msh9mj4tppspg23gey6mmx5fqiy7ky3jqx4uhgsfsrd8r76si8ykb2anw9442g4qkq5fzpdvwdqf5te24ixu9zrx3aesm9fzt59q5y2s8qwgbqhvf6d3z5bjy3qb2t4.m3u8
+#EXTINF:-1 tvg-id="StarGold2.in@SD",Star Gold 2 (576p)
+http://103.253.18.58:8000/play/a00r
+#EXTINF:-1 tvg-id="StarGoldRomance.in@SD",Star Gold Romance (576p)
+http://103.253.18.58:8000/play/a017
+#EXTINF:-1 tvg-id="StarGoldSelect.in@HD",Star Gold Select HD (1080p)
+http://103.253.18.58:8000/play/a02u
+#EXTINF:-1 tvg-id="StarGoldSelect.in@HD",Star Gold Select HD (1080p)
+http://149.71.34.166:8000/play/a01d/index.m3u8
+#EXTINF:-1 tvg-id="StarGoldThrills.in@SD",Star Gold Thrills (576p)
+#EXTVLCOPT:http-referrer=http://www.jiotv.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://103.157.248.140:8000/play/a00b/index.m3u8
+#EXTINF:-1 tvg-id="StarGoldThrills.in@SD",Star Gold Thrills (576p)
+http://103.253.18.58:8000/play/a00o
+#EXTINF:-1 tvg-id="StarMaaGold.in@SD",Star Maa Gold (576p)
+http://103.121.6.5:8000/play/a063/index.m3u8
+#EXTINF:-1 tvg-id="StarMaa.in@HD",Star Maa HD (1080p)
+#EXTVLCOPT:http-referrer=https://tulnit.com
+https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starmaa1_live_https/index.m3u8
+#EXTINF:-1 tvg-id="StarMaaMovies.in@HD",Star Maa Movies HD (1080p)
+#EXTVLCOPT:http-referrer=https://tulnit.com
+https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/maamovies_live_https/index.m3u8
+#EXTINF:-1 tvg-id="StarMovies.in@HD",Star Movies HD (1080p)
+http://149.71.34.166:8000/play/a01f/index.m3u8
+#EXTINF:-1 tvg-id="StarMoviesSelect.in@HD",Star Movies Select HD (1080p)
+http://149.71.34.166:8000/play/a01g/index.m3u8
+#EXTINF:-1 tvg-id="StarPravah.in@HD",Star Pravah HD (1080p)
+#EXTVLCOPT:http-referrer=https://tulnit.com
+https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starpravah_live_https/index.m3u8
+#EXTINF:-1 tvg-id="StarSports1.in@SD",Star Sports 1 (720p)
+https://tvsen7.aynaott.com/sspts1/index.m3u8
+#EXTINF:-1 tvg-id="StarSports1.in@HD",Star Sports 1 HD (1080p)
+http://103.253.18.58:8000/play/a00m
+#EXTINF:-1 tvg-id="StarSports1Hindi.in@SD",Star Sports 1 Hindi (576p)
+http://103.253.18.58:8000/play/a03o
+#EXTINF:-1 tvg-id="StarSports2.in@HD",Star Sports 2 HD (720p)
+https://tvsen7.aynaott.com/ssport2hd/index.m3u8
+#EXTINF:-1 tvg-id="StarSports2Hindi.in@HD",Star Sports 2 Hindi HD (1080p)
+http://103.157.248.140:8000/play/a01m/index.m3u8
+
 
 
 # ─────────── Documentary───────────
@@ -710,17 +770,17 @@ https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-15
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1280px-Fox_Movies_%28Asia%29_logo.svg.png" tvg-name="FOX MOVIESS" group-title="MOVIES",FOX MOVIESS http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d7/Fox_Movies_Premium_logo.svg/939px-Fox_Movies_Premium_logo.svg.png" tvg-name="FOX MOVIESS PREMIUM" group-title="MOVIES",FOX MOVIESS PREMIUM http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3b/Fox_%287%29.png/revision/latest?cb=20170228215758&path-prefix=es" tvg-name="FOX MOVIESSCOMEDY" group-title="MOVIES",FOX MOVIESS COMEDY http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/2000px-Fox_Sports_1_logo.svg.png" tvg-name="FOX SPORT 1" group-title="SPORT",FOX SPORT 1 http://45.58.62.92:8080
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/2000px-Fox_sports_3_logo.svg.png" tvg-name="FOX SPORT 3" group-title="SPORT",FOX SPORT 3 http://210.210.155.35/uq2663/h/h21/index1.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0f/FSRacing.jpg/revision/latest?cb=20150907222429" tvg-name="FOX SPORT RACING" group-title="SPORT",FOX SPORT RACING http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/2000px-Fox_Sports_1_logo.svg.png" tvg-name="FOX SPORT 1" group-title="Fox",FOX SPORT 1 http://45.58.62.92:8080
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/2000px-Fox_sports_3_logo.svg.png" tvg-name="FOX SPORT 3" group-title="fox",FOX SPORT 3 http://210.210.155.35/uq2663/h/h21/index1.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0f/FSRacing.jpg/revision/latest?cb=20150907222429" tvg-name="FOX SPORT RACING" group-title="fox",FOX SPORT RACING http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
 #EXTINF:-1 group-title="movie", FOX http://161.0.157.5/PLTV/88888888/224/3221226321/index.m3u8
-#EXTINF:-1 group-title="SPORT",FOX SPORT http://161.0.157.5/PLTV/88888888/224/3221226181/index.m3u8
-#EXTINF:-1 group-title="movie", FOX CINEMA http://161.0.157.5/PLTV/88888888/224/3221226793/index.m3u8
-#EXTINF:-1 group-title="movie",FOX COMEDY http://161.0.157.5/PLTV/88888888/224/3221226800/index.m3u8
-#EXTINF:-1 group-title="movie",FOX (1080) (M) http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/17050
-#EXTINF:-1 group-title="movie",Fox Premium Action [1080] [Dual Audio] http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/75932
-#EXTINF:-1 group-title="movie",Fox Premium Action(1080) http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/14863
-#EXTINF:-1 group-title="movie",Fox Premium Action HD [Dual Audio] http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/75892
+#EXTINF:-1 group-title="fox",FOX SPORT http://161.0.157.5/PLTV/88888888/224/3221226181/index.m3u8
+#EXTINF:-1 group-title="fox", FOX CINEMA http://161.0.157.5/PLTV/88888888/224/3221226793/index.m3u8
+#EXTINF:-1 group-title="fox",FOX COMEDY http://161.0.157.5/PLTV/88888888/224/3221226800/index.m3u8
+#EXTINF:-1 group-title="fox",FOX (1080) (M) http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/17050.m3u8
+#EXTINF:-1 group-title="fox",Fox Premium Action [1080] [Dual Audio] http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/75932.m3u8
+#EXTINF:-1 group-title="fox",Fox Premium Action(1080) http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/14863.m3u8
+#EXTINF:-1 group-title="fox",Fox Premium Action HD [Dual Audio] http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/75892.m3u8
 
 
 
