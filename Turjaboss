@@ -6,40 +6,11 @@
 #EXTINF:-1 tvg-id="Btv" tvg-name="Btv" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA",Btv
 http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,03.BTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=1692000.m3u8
-
-#EXTINF:-1,BTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709.m3u8
-
+#EXTINF:-1, btv live 
+http://180.94.28.28:8097//BTV/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-id="Somoy" tvg-name="Somoy" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA",Somoy
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
-
-#EXTINF:-1,08.Somoi
-https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=1692000.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",T-sports 
-http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,T Sports HD
-http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/756462.m3u8
-
-#EXTINF:-1,T Sports 7
-https://live-us1.thaimomo.com/live-as/chtsport-1/playlist.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", Unite8 hd 
-
-http://198.195.239.50:8095/unt-s/video.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",BTV 2
-
-http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
-
-
 
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", Toffee live 
 
@@ -50,10 +21,6 @@ https://kazimmt.ami.bd/playlist/TF/TF-3.m3u8
 
 https://kazimmt.ami.bd/playlist/TF/TF-2.m3u8
 
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", Somoy TV 2
-
-http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",somoy tv 3
@@ -86,50 +53,18 @@ https://cdn-tt.pages.dev/ch2.m3u8
 https://cdn-tt.pages.dev/ch3.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Football World Cup 2026
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", toffee 7
 
 https://kazimmt.ami.bd/playlist/TF/TF-1.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Football World Cup 2026
-
-http://103.114.11.37:8081/T-Sports-BDIX-3-1080p/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1,Football World Cup 2026
-http://180.94.28.28:8097//BTV/index.fmp4.m3u8
-#EXTINF:-1,Football World Cup 2026
-http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Football World Cup 2026 4K
 http://fastshare1.com/live/25711345/late8airline/745270.ts
-#EXTINF:-1,Football World Cup 2026
-https://next.badinan.xyz/nexttv/FHD/playlist.m3u8
-#EXTINF:-1,Football World Cup 2026
-http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Football World Cup 2026
-http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Football World Cup 2026
+
+
+#EXTINF:-1, somoy tv 2
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
 
-#EXTINF:-1,Football World Cup 2026
-http://198.195.239.50:8095/unt-s/video.m3u8
 
-#EXTINF:-1,Fifa🏆
-https://biostartvworld.pages.dev/biostartvworld.m3u
-#EXTINF:-1,fifa 🔥
-https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Football World Cup 2026 (4K) 2
-http://fastshare1.com:8080//live/25711345/late8airline/745270.ts
-
-
-#EXTINF:-1,Football World Cup 2026
-http://198.195.239.50:8095/unt-s/video.m3u8
-#EXTINF:-1,FIFA Live 4 - FOX 5
-http://84.17.50.102/fox/index.m3u8
-#EXTINF:-1,FOX Sports
-http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19138/index.m3u8
-#EXTINF:-1,BeIN Sports Extra
-https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1,uneit8
+#EXTINF:-1, btv live 2
 http://180.94.28.28:8097/Fifa-2026/index.m3u8
