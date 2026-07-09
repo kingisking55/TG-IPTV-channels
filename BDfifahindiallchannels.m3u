@@ -2,8 +2,8 @@
 
 EXTINF:-1 tvg-id="Btv" tvg-name="Btv" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA",Btv
 http://198.195.239.50:8095/btv/tracks-v1a1/mono
-EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",BTV
-http://180.94.28.28:8097//BTV/index.fmp4.m
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",BTV
+http://180.94.28.28:8097//BTV/index.fmp4.m3u8
 
 #EXTINF:-1, btv live 
 http://180.94.28.28:8097//BTV/index.fmp4.m3u8
@@ -11,6 +11,7 @@ http://180.94.28.28:8097//BTV/index.fmp4.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Somoy TV
 http://180.94.28.28:8097//Somoy-TV/index.fmp4.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",somoy tv 2
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
 
 #EXTINF:-1 group-title="Bangladesh", Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
@@ -52,7 +53,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 #EXTINF:-1 group-title="Bangladesh",BTV songsod
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
-#EXTINF:-1 group-title="Bangladesh",Independent TV
+#EXTINF:-1 group-title="Bangladesh",Independent TV 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 
 #EXTINF:-1 group-title="Bangladesh",NTV
