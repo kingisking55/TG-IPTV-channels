@@ -1,17 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Btv" tvg-name="Btv" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA",Btv
-http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",BTV
+EXTINF:-1 tvg-id="Btv" tvg-name="Btv" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA",Btv
+http://198.195.239.50:8095/btv/tracks-v1a1/mono
+EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",BTV
+http://180.94.28.28:8097//BTV/index.fmp4.m
+
+#EXTINF:-1, btv live 
 http://180.94.28.28:8097//BTV/index.fmp4.m3u8
+
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Somoy TV
 http://180.94.28.28:8097//Somoy-TV/index.fmp4.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",somoy tv 2
 
 #EXTINF:-1 group-title="Bangladesh", Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 group-title="Bangladesh", Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
-#EXTINF:-1 group-title="Bangladesh", Somoy TV
+#EXTINF:-1 group-title="Bangladesh", channels 1 TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #EXTINF:-1 group-title="Bangladesh",Jamuna TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
@@ -44,13 +49,11 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 #EXTINF:-1 group-title="Bangladesh",NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 
-#EXTINF:-1 group-title="Bangladesh",BTV
+#EXTINF:-1 group-title="Bangladesh",BTV songsod
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
-group-title="Bangladesh",Independent TV
+#EXTINF:-1 group-title="Bangladesh",Independent TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
-#EXTINF:-1 group-title="Bangladesh",Channel I
-https://tvsen6.aynaott.com/channeli/index.m3u8?e=1781140100&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=8a0497eda7038c3c516a230ffeb05518
 
 #EXTINF:-1 group-title="Bangladesh",NTV
 https://tvsen5.aynaott.com/ntvbd/index.m3u8?e=1781140100&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=fdd699192115b2ba8a55d739b7d968db
