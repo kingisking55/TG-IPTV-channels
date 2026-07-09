@@ -12,6 +12,8 @@ http://180.94.28.28:8097//BTV/index.fmp4.m3u8
 http://180.94.28.28:8097//Somoy-TV/index.fmp4.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",somoy tv 2
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
+#EXTINF:-1 group-title="FOOTBALL",T SPORTS
+http://fastshare1.com:80/live/25711345/late8airline/52500.ts
 
 #EXTINF:-1 group-title="Bangladesh", Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
@@ -134,7 +136,16 @@ https://tvsen6.aynaott.com/news24/index.m3u8?e=1781140102&u=78be6644-0a65-48ec-8
 https://tvsen6.aynaott.com/ekattorbdtv/index.m3u8?e=1781140102&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=d94d750dc255a5e0f8798c72fee0b57d
 
 
-
+#EXTINF:-1 group-title="BANGLA",BD: Star Jalsha (FHD)
+http://fastshare1.com:80/live/25711345/late8airline/23218.ts
+#EXTINF:-1 group-title="BANGLA",BD: JALSHA MOVIES (FHD)
+http://fastshare1.com:80/live/25711345/late8airline/23304.ts
+#EXTINF:-1 group-title="BANGLA",BD: ZEE BANGLA (FHD)
+http://fastshare1.com:80/live/25711345/late8airline/23305.ts
+#EXTINF:-1 group-title="BANGLA",BD: COLORS BANGLA (FHD)
+http://fastshare1.com:80/live/25711345/late8airline/23306.ts
+#EXTINF:-1 group-title="BANGLA",BD: ZEE BANGLA CINEMA
+http://fastshare1.com:80/live/25711345/late8airline/49615.ts
 
 # ─────────── World News ───────────
 
@@ -443,3 +454,20 @@ http://172.31.235.10:8080/hls/1-btv/0_1/index.m3u8?tkn=55672317
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Football World Cup 2026",Football World Cup 2026 4K
 http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
+
+
+
+#EXTINF:-1 group-title="FIFA World Cup 2026",Unite8 Sports 2 HD
+http://fastshare1.com:80/live/25711345/late8airline/745202.ts
+#EXTINF:-1 group-title="FIFA World Cup 2026",(DE) Fussball.TV1 (UHD/4K)
+http://fastshare1.com:80/live/25711345/late8airline/745269.ts
+#EXTINF:-1 group-title="FIFA World Cup 2026",(HK) Now Sports 616 (UHD/4K)
+http://fastshare1.com:80/live/25711345/late8airline/745270.ts
+#EXTINF:-1 group-title="FIFA World Cup 2026",BEIN SPORT MAX 4K
+http://fastshare1.com:80/live/25711345/late8airline/747283.ts
+#EXTINF:-1 group-title="FIFA World Cup 2026",TSN 1
+http://fastshare1.com:80/live/25711345/late8airline/748388.ts
+#EXTINF:-1 group-title="FIFA World Cup 2026",Fox Sports 1 (FS1) [English]
+http://fastshare1.com:80/live/25711345/late8airline/751354.ts
+#EXTINF:-1 group-title="FIFA World Cup 2026",Fox Sports 2 (FS2) [English]
+http://fastshare1.com:80/live/25711345/late8airline/751355.ts
