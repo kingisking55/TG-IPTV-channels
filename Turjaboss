@@ -7,8 +7,8 @@ http://103.165.93.31:8095/btv/index.m3u8
 #EXTINF:-1 tvg-id="Somoy" tvg-name="Somoy" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA",Somoy
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 
-#EXTINF:-1 group-title="FOOTBALL",T SPORTS
-http://fastshare1.com:80/live/25711345/late8airline/52500.ts
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Football World Cup 2026", Toffee live 2026
+http://fifabangladesh.top/BRAZIL2/LIVE/play.m3u8?q=1300
 
 #EXTINF:-1 group-title="FOOTBALL", t-sports 
 http://103.165.93.31:8095/tsports/video.m3u8
