@@ -66,6 +66,11 @@ https://tvsen5.aynaott.com/ntvbd/index.m3u8?e=1781140100&u=78be6644-0a65-48ec-81
 https://tvsen5.aynaott.com/RtvHD/index.m3u8?e=1781140100&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=46151ad5ecd9669f818fc1c457890aa7
 #EXTINF:-1 group-title="Bangladesh",ATN Bangla
 https://tvsen5.aynaott.com/atnbangla/index.m3u8?e=1781140100&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=4a85632c03e249e6087dc8583f7c2fc2
+#EXTINF:-1 tvg-id="ATNNews.bd@SD",ATN News (1080p)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/1706.m3u8
+#EXTINF:-1 tvg-id="ATNMusic.bd@SD",ATN Music (360p)
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="Bangladesh",ETV
 https://tvsen6.aynaott.com/etv/index.m3u8?e=1781140100&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=6072eee9276dcfba34a66d604b17c3af
 #EXTINF:-1 group-title="Bangladesh",Maasranga TV
@@ -128,6 +133,8 @@ https://tvsen6.aynaott.com/atnnews/index.m3u8?e=1781140101&u=78be6644-0a65-48ec-
 https://tvsen6.aynaott.com/independenttv/index.m3u8?e=1781140101&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=13b17468e3684d11daf3df95c4f88fc3
 #EXTINF:-1 group-title="Bangladesh",DBC News
 https://tvsen6.aynaott.com/dbcnews/index.m3u8?e=1781140101&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=a2485c6a1d5a5cd485d47f1c7b2ae06a
+#EXTINF:-1 tvg-id="DBCNews.bd@SD",DBC News (1080p)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 #EXTINF:-1 group-title="Bangladesh",Ekhon TV
 https://tvsen6.aynaott.com/ekhontv/index.m3u8?e=1781140101&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=5cf94fab3dece819c2dc5ffad2e8532a
 #EXTINF:-1 group-title="Bangladesh",News 24 BD
