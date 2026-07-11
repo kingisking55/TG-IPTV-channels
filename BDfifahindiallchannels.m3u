@@ -37,7 +37,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 #EXTINF:-1 group-title="Bangladesh",Star News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
-#EXTINF:-1 group-title="Bangladesh",Islamic TV
+#EXTINF:-1 group-title="Bangladesh", দেশ টিভি (desh tv)
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 #EXTINF:-1 group-title="Bangladesh",Deepto TV HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
@@ -58,89 +58,25 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1 group-title="Bangladesh",Independent TV 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 
-#EXTINF:-1 group-title="Bangladesh",NTV
-https://tvsen5.aynaott.com/ntvbd/index.m3u8?e=1781140100&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=fdd699192115b2ba8a55d739b7d968db
-
-
-#EXTINF:-1 group-title="Bangladesh",RTV
-https://tvsen5.aynaott.com/RtvHD/index.m3u8?e=1781140100&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=46151ad5ecd9669f818fc1c457890aa7
-#EXTINF:-1 group-title="Bangladesh",ATN Bangla
-https://tvsen5.aynaott.com/atnbangla/index.m3u8?e=1781140100&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=4a85632c03e249e6087dc8583f7c2fc2
 #EXTINF:-1 tvg-id="ATNNews.bd@SD",ATN News (1080p)
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/1706.m3u8
 #EXTINF:-1 tvg-id="ATNMusic.bd@SD",ATN Music (360p)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Bangladesh",ETV
-https://tvsen6.aynaott.com/etv/index.m3u8?e=1781140100&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=6072eee9276dcfba34a66d604b17c3af
-#EXTINF:-1 group-title="Bangladesh",Maasranga TV
-https://tvsen5.aynaott.com/maasrangatv/index.m3u8?e=1781140100&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b334cc2db68d7d9acb6acf1b411c0ea7
-#EXTINF:-1 group-title="Bangladesh",Deepto TV
-https://tvsen5.aynaott.com/DeeptoTVHD/index.m3u8?e=1781140100&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=bb52d7701f1cf1aec26e86ea122bb929
-#EXTINF:-1 group-title="Bangladesh",Gazi TV
-https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1781140100&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=46307ff57338ad458ca617af82ab9b48
-#EXTINF:-1 group-title="Bangladesh",Desh TV
-https://tvsen6.aynaott.com/deshtv/index.m3u8?e=1781140100&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=c85d9acf67891257df3fe511fbfeb4d0
-#EXTINF:-1 group-title="Bangladesh",Boishakhi TV
-https://tvsen6.aynaott.com/boishakhitv/index.m3u8?e=1781140100&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e51d58142f614c52315ab884f5a473bc
-#EXTINF:-1 group-title="Bangladesh",Channel 9
-https://tvsen6.aynaott.com/channel9/index.m3u8?e=1781140100&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=de18e03202cb3fbd8ce5d0d5a643e262
-#EXTINF:-1 group-title="Bangladesh",Asian TV
-https://tvsen6.aynaott.com/asiantv/index.m3u8?e=1781140100&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=6aa4fcc7a7ede9566f506b58abde9a5c
-#EXTINF:-1 group-title="Bangladesh",SA TV
-https://tvsen6.aynaott.com/satv/index.m3u8?e=1781140100&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=d0a4c8181635b7becde997f0db630550
-#EXTINF:-1 group-title="Bangladesh",Duronto TV
-https://tvsen6.aynaott.com/durontotv-live/index.m3u8?e=1781140100&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=7add20feb387f89102264862c18d30e8
-#EXTINF:-1 group-title="Bangladesh",Bangla TV
-https://tvsen6.aynaott.com/banglatv/index.m3u8?e=1781140100&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=897914621cd4d9e645f7b06d0394d46a
-#EXTINF:-1 group-title="Bangladesh",BTV NATIONAL HD
-https://tvsen6.aynaott.com/btvhd/index.m3u8?e=1781140100&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=fdd4d564d00bb9fc6956dfc232ce49df
-#EXTINF:-1 group-title="Bangladesh",Ananda TV
-https://tvsen6.aynaott.com/anandatv/index.m3u8?e=1781140100&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=8c548e462993b577abd3fd5aac9479fc
-#EXTINF:-1 group-title="Bangladesh",My TV
-https://tvsen6.aynaott.com/mytv/index.m3u8?e=1781140100&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=bd1abc281fddbd88ef109544dd932f59
-#EXTINF:-1 group-title="Bangladesh",Global TV
-https://tvsen6.aynaott.com/globaltvhd/index.m3u8?e=1781140101&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=71cfe816838539063ef30451955f06a1
-#EXTINF:-1 group-title="Bangladesh",Bijoy TV
-https://tvsen6.aynaott.com/bijoytv/index.m3u8?e=1781140101&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=014aa58130a366562ef2ff71335953cd
-#EXTINF:-1 group-title="Bangladesh",NEXUS TV
-https://tvsen6.aynaott.com/nexustv/index.m3u8?e=1781140101&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=55f0a19055423e24249d1019a63b5ec4
-#EXTINF:-1 group-title="Bangladesh",Mohona TV
-https://tvsen6.aynaott.com/mohonatv/index.m3u8?e=1781140101&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=f54e5ea585e34d456f2a2ccfed5cf660
 #EXTINF:-1,Drama 24
 https://vods2.aynaott.com/gseriesDrama/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://imglink.cc/cdn/1_dUKmt1Oe.png", G Series Drama
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="Bangladesh",BTV World
-https://tvsen6.aynaott.com/btv_world/index.m3u8?e=1781140101&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=986fd40e20b0a988c01b877490860016
-#EXTINF:-1 group-title="Bangladesh",BTV CTG
-https://tvsen6.aynaott.com/btvctg/index.m3u8?e=1781140101&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=2d748fb4b5e631b307123618981fc0af
-#EXTINF:-1 group-title="Bangladesh",BTV News
-https://tvsen6.aynaott.com/BTVNews/index.m3u8?e=1781140101&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=1e004b351c5ba32a4692b9825491ca4a
-
-#EXTINF:-1 group-title="FIFA" tvg-logo="https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png",BTV 🇧🇩songsod Bangladesh
+#EXTINF:-1 group-title="FIFA" tvg-logo="https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png",BTV songsod Bangladesh
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
 #EXTINF:-1 group-title="FIFA" tvg-logo="https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png", channel i Bangladesh
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
-#EXTINF:-1 group-title="Bangladesh",Channel 24
-https://tvsen6.aynaott.com/channel24/index.m3u8?e=1781140101&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=6c072dbff887713d1ef8f61f7f0c0ece
-#EXTINF:-1 group-title="Bangladesh",ATN News
-https://tvsen6.aynaott.com/atnnews/index.m3u8?e=1781140101&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=601f9cc96427a8979f531247327bea29
-#EXTINF:-1 group-title="Bangladesh",Independent TV
-https://tvsen6.aynaott.com/independenttv/index.m3u8?e=1781140101&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=13b17468e3684d11daf3df95c4f88fc3
-#EXTINF:-1 group-title="Bangladesh",DBC News
-https://tvsen6.aynaott.com/dbcnews/index.m3u8?e=1781140101&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=a2485c6a1d5a5cd485d47f1c7b2ae06a
 #EXTINF:-1 tvg-id="DBCNews.bd@SD",DBC News (1080p)
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
-#EXTINF:-1 group-title="Bangladesh",Ekhon TV
-https://tvsen6.aynaott.com/ekhontv/index.m3u8?e=1781140101&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=5cf94fab3dece819c2dc5ffad2e8532a
-#EXTINF:-1 group-title="Bangladesh",News 24 BD
-https://tvsen6.aynaott.com/news24/index.m3u8?e=1781140102&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e46c81fdb63b457e7224141c1cdc6ed8
-#EXTINF:-1 group-title="Bangladesh",Ekattor TV
-https://tvsen6.aynaott.com/ekattorbdtv/index.m3u8?e=1781140102&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=d94d750dc255a5e0f8798c72fee0b57d
+
 
 
 #EXTINF:-1 group-title="BANGLA",BD: Star Jalsha (FHD)
