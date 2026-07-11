@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINK 
+http://172.22.22.22/hls/tv1.m3u8
+http://172.22.22.22/hls/tv2.m3u8
+http://172.22.22.22/hls/tv3.m3u8
+http://172.22.22.22/hls/tv4.m3u8
