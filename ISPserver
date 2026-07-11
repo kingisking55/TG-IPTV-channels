@@ -1,6 +1,29 @@
 #EXTM3U
-#EXTINK 
+#EXTINF:-1 group-title="tv", Channels 1
 http://172.22.22.22/hls/tv1.m3u8
+#EXTINF:-1 group-title="tv", Channels 2
 http://172.22.22.22/hls/tv2.m3u8
+#EXTINF:-1 group-title="tv", Channels 3
 http://172.22.22.22/hls/tv3.m3u8
+#EXTINF:-1 group-title="tv", Channels 4
 http://172.22.22.22/hls/tv4.m3u8
+#EXTINF:-1 group-title="tv", Channels 5
+http://172.22.22.22/hls/tv5.m3u8
+#EXTINF:-1 group-title="tv", Channels 6
+http://172.22.22.22/hls/tv6.m3u8
+#EXTINF:-1 group-title="tv", Channels 7
+http://172.22.22.22/hls/tv7.m3u8
+#EXTINF:-1 group-title="tv", Channels 8
+http://172.22.22.22/hls/tv8.m3u8
+#EXTINF:-1 group-title="tv", Channels 9
+http://172.22.22.22/hls/tv9.m3u8
+#EXTINF:-1 group-title="tv", Channels 10
+http://172.22.22.22/hls/tv10.m3u8
+#EXTINF:-1 group-title="tv", Channels 11
+http://172.22.22.22/hls/tv11.m3u8
+#EXTINF:-1 group-title="tv", Channels 12
+http://172.22.22.22/hls/tv12.m3u8
+#EXTINF:-1 group-title="tv", Channels 13
+http://172.22.22.22/hls/tv13.m3u8
+#EXTINF:-1 group-title="tv", Channels 14
+http://172.22.22.22/hls/tv14.m3u8
