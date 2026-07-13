@@ -9,15 +9,8 @@ http://172.22.22.22/hls/tv3.m3u8
 #EXTINF:-1 group-title="tv", Channels 4 btv
 http://172.22.22.22/hls/tv4.m3u8 
 
-#EXTINF:-1, btv live 
-http://180.94.28.28:8097//BTV/index.fmp4.m3u8
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Somoy TV
-http://180.94.28.28:8097//Somoy-TV/index.fmp4.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",somoy tv 2
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",somoy tv
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
-#EXTINF:-1 group-title="FOOTBALL",T SPORTS
-http://fastshare1.com:80/live/25711345/late8airline/52500.ts
 
 #EXTINF:-1 group-title="Bangladesh", Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
@@ -71,12 +64,6 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://vods2.aynaott.com/gseriesDrama/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://imglink.cc/cdn/1_dUKmt1Oe.png", G Series Drama
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="FIFA" tvg-logo="https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png",BTV songsod Bangladesh
-https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
-
-#EXTINF:-1 group-title="FIFA" tvg-logo="https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png", channel i Bangladesh
-https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
 #EXTINF:-1 tvg-id="DBCNews.bd@SD",DBC News (1080p)
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
