@@ -7,23 +7,28 @@ http://172.22.22.22/hls/tv2.m3u8
 http://172.22.22.22/hls/tv3.m3u8
 #EXTINF:-1 group-title="tv", Channels 4
 http://172.22.22.22/hls/tv4.m3u8
-#EXTINF:-1 group-title="tv", Channels 5
-http://172.22.22.22/hls/tv5.m3u8
-#EXTINF:-1 group-title="tv", Channels 6
-http://172.22.22.22/hls/tv6.m3u8
-#EXTINF:-1 group-title="tv", Channels 7
-http://172.22.22.22/hls/tv7.m3u8
-#EXTINF:-1 group-title="tv", Channels 8
-http://172.22.22.22/hls/tv8.m3u8
-#EXTINF:-1 group-title="tv", Channels 9
-http://172.22.22.22/hls/tv9.m3u8
-#EXTINF:-1 group-title="tv", Channels 10
-http://172.22.22.22/hls/tv10.m3u8
-#EXTINF:-1 group-title="tv", Channels 11
-http://172.22.22.22/hls/tv11.m3u8
-#EXTINF:-1 group-title="tv", Channels 12
-http://172.22.22.22/hls/tv12.m3u8
-#EXTINF:-1 group-title="tv", Channels 13
-http://172.22.22.22/hls/tv13.m3u8
-#EXTINF:-1 group-title="tv", Channels 14
-http://172.22.22.22/hls/tv14.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0a0gZr.jpg" group-title="BANGLA", GAZI TV
+http://otv.ftpbd.net/streams/108/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0a0gZr.jpg" group-title="BANGLA", GAZI TV
+
+http://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-
+
+logo="https://upload.wikimedia.org/wikipedia/en/d/de/Star_Jalsha_logo. jpg" group-
+
+title="BANGLA", STAR JALSHA
+
+https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-
+
+logo="https://vignette.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png"
+
+group-title="BANGLA", JALSHA MOVIES
+
+https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
