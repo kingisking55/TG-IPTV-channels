@@ -134,7 +134,18 @@ https://live1.entertv.com.bd/entertv/tracks-v1a1/mono.m3u8
 http://158.69.24.53:8080/probashi_tv/tracks-v1a1/mono.m3u8
 
 
-# ─────────── Entertainment───────────
+
+# ─────────── World News ───────────
+
+
+#EXTINF:-1 group-title="al Jazeera", Al Jazeera
+https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
+
+#EXTINF:-1,DW News
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
+
+
+# ─────────── Kolkata ───────────
 
 
 
@@ -163,6 +174,8 @@ https://madanitv.assadikb.workers.dev/live.php?id=756&e=.m3u8
 #EXTINF:-1 tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dQmW5aAA-8mIeuB88P0SUdrjBBSFEHQ2ZXiddKtVfnJCQ.png" group-title="Kolkata Bangla",AAKASH AATH
 https://cdn-4.pishow.tv/live/969/master.m3u8
 
+# ─────────── sony hindi ───────────
+
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-hd-set-hd.png" group-title="OTAPP",Sony HD (SET HD)
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://book4u.top/worker/index.php?path=api/bff81131e7/playlist.m3u8
@@ -170,15 +183,9 @@ https://book4u.top/worker/index.php?path=api/bff81131e7/playlist.m3u8
 #EXTINF:-1 ,SONY ENTERTAINMENT TELEVISION
 https://mflixott.com/tv/toffee-by-maruf/live.php?id=sony_entertainment&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/goldmines-movies.png" group-title="OTAPP",Goldmines Movies
-#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://cdn-2.pishow.tv/live/1461/master.m3u8
 #EXTINF:-1 ,  colours hd hindi
 http://live.balajibroadband.com:3500/live/144.m3u8
-#EXTINF:-1 ,StarPlus HD
-http://66.102.126.10:8000/play/a008/index.m3u8
-#EXTINF:-1 ,Star Gold HD
-http://66.102.126.10:8000/play/a00f/index.m3u8
 
 #EXTINF:-1 , Sony sab
 http://live.balajibroadband.com:3500/live/471.m3u8
@@ -196,21 +203,12 @@ http://live.balajibroadband.com:3500/live/762.m3u8
 http://live.balajibroadband.com:3500/live/483.m3u8
 #EXTINF:-1 , Sony Max Hd
 http://live.balajibroadband.com:3500/live/476.m3u8
-#EXTINF:-1 ,B4U Movies
-http://103.175.73.12:8080/live/43/43_0.m3u8
 
-#EXTINF:-1 ,YRF MUSIC
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
-#EXTINF:-1 ,B4u Music
-http://103.175.73.12:8080/live/157/157_0.m3u8
-
-#EXTINF:-1 ,Star Movies HD
-http://66.102.126.10:8000/play/a021/index.m3u8
-#EXTINF:-1 ,Star Movies Select HD
-http://66.102.126.10:8000/play/a020/index.m3u8
 
 #EXTINF:-1 ,Zee Cinema HD
 http://103.159.180.34:5001/live/165.m3u8
+#EXTINF:-1 group-title="Hindi movies",Zee Action
+http://103.175.73.12:8080/live/270/270_0.m3u8
 
 Korean 
 
@@ -218,62 +216,27 @@ Korean
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://book4u.top/worker/index.php?path=api/f914787389/playlist.m3u8
 
+# ─────────── star golds ───────────
 
+#EXTINF:-1 ,StarPlus HD
+http://66.102.126.10:8000/play/a008/index.m3u8
+#EXTINF:-1 ,Star Gold HD
+http://66.102.126.10:8000/play/a00f/index.m3u8
 
-# ─────────── World News ───────────
+#EXTINF:-1 tvg-id="StarGold2.in@SD",Star Gold 2 (576p)
+http://103.253.18.58:8000/play/a00r
+#EXTINF:-1 tvg-id="StarGoldRomance.in@SD",Star Gold Romance (576p)
+http://103.253.18.58:8000/play/a017
+#EXTINF:-1 tvg-id="StarGoldSelect.in@HD",Star Gold Select HD (1080p)
+http://103.253.18.58:8000/play/a02u
 
+#EXTINF:-1 tvg-id="StarGoldThrills.in@SD",Star Gold Thrills (576p)
+#EXTVLCOPT:http-referrer=http://www.jiotv.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://103.157.248.140:8000/play/a00b/index.m3u8
+#EXTINF:-1 tvg-id="StarGoldThrills.in@SD",Star Gold Thrills (576p)
+http://103.253.18.58:8000/play/a00o
 
-#EXTINF:-1 group-title="al Jazeera", Al Jazeera
-https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
-
-#EXTINF:-1,DW News
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
-
-
-
-
-
-# ─────────── Sports───────────
-
-
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 4
-https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", beIN Sports Xtra
-https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 1
-https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 2
-https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 3
-https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 4
-https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
-
-#EXTINF:-1 group-title="Sports",FIFA World Cup 2026 🇧🇷[coming]
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
-
-#EXTINF:-1 group-title="Sports",CAZE TV 1 🇧🇷
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-
-# ─────────── FIFA Sports───────────
-
-
-#EXTINF:-1 group-title="FIFA" tvg-logo="https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png", FIFA Plus English 🏆
-https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
-
-
-#EXTINF:-1 group-title="FIFA" tvg-logo="https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png", Caze TV 🇧🇷 Brazil
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
-
-#EXTINF:-1 group-title="FIFA" tvg-logo="https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png", Caze TV B - 🇧🇷 Brazil
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
 
 
@@ -287,6 +250,11 @@ https://cdn-2.pishow.tv/live/1459/master.m3u8
 https://cdn-2.pishow.tv/live/1461/master.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/goldmines-movies.png" group-title="OTAPP",Goldmines Movies
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+
+#EXTINF:-1 group-title="Hindi movies",Goldmines Bollywood
+http://103.175.73.12:8080/live/52/52_0.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://imglink.cc/cdn/E86bN6IAxl.jpg", Goldmines Bollywood
 https://tvsen6.aynaott.com/GoldminesBollywood/index.m3u8
@@ -300,8 +268,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://imglink.cc/cdn/cScI5tEUjV.png", B4U Movies
 https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://imglink.cc/cdn/cScI5tEUjV.png", Action Hollywood
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png" group-title="Hindi Movies",Zee Action
 http://103.175.73.12:8080/live/270/270_0.m3u8
@@ -312,7 +278,55 @@ http://103.175.73.12:8080/live/271/271_0.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Zee_Anmol_Cinema_logo.png" group-title="Hindi Movies",Zee Anmol TV
 http://103.175.73.12:8080/live/256/256_0.m3u8
 
+
+# ─────────── Hollywood movies ───────────
+
+
+#EXTINF:-1 ,Star Movies HD
+http://66.102.126.10:8000/play/a021/index.m3u8
+#EXTINF:-1 ,Star Movies Select HD
+http://66.102.126.10:8000/play/a020/index.m3u8
+
+
+#EXTINF:-1 group-title="Hindi movies",Action Hollywood Movies
+https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://imglink.cc/cdn/cScI5tEUjV.png", Action Hollywood
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+
+
+# ─────────── Documentary───────────
+
+#EXTINF:-1 ,Discovery HD
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=discovery_hd&e=.m3u8
+#EXTINF:-1 ,Discovery
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=discovery_sd&e=.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://imglink.cc/cdn/eEZmseF3Tb.jpg", Geography HD
+http://202.70.146.135:8000/play/a05o/index.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://imglink.cc/cdn/eEZmseF3Tb.jpg", Adventure Earth
+https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://imglink.cc/cdn/eEZmseF3Tb.jpg", BBC Earth
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8
+
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://imglink.cc/cdn/eEZmseF3Tb.jpg", Wild Earth
+https://wildearth-plex.amagi.tv/master.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://imglink.cc/cdn/ebC033LNf2.png", Animal Planet
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
+
+
+
 # ─────────── Music───────────
+
+#EXTINF:-1 ,YRF MUSIC
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+#EXTINF:-1 ,B4u Music
+http://103.175.73.12:8080/live/157/157_0.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://imglink.cc/cdn/IYDn_LwwiV.png", 9X Tashan
 https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
@@ -353,8 +367,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-209869/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://imglink.cc/cdn/rmNeL8f6NR.png", Doraemon TV
 https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
 
-
-
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://imglink.cc/cdn/cZxNWhHkaZ.jpg", Oggy and the Cockroaches
 https://live20.bozztv.com/giatvplayout7/giatv-210728/tracks-v1a1/mono.ts.m3u8
 
@@ -368,63 +380,51 @@ https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 
 
+# ─────────── Sports───────────
 
-
-# ─────────── Hindi ───────────
-
-#EXTINF:-1 group-title="Hindi movies",Goldmines Bollywood
-http://103.175.73.12:8080/live/52/52_0.m3u8
-#EXTINF:-1 group-title="Hindi movies",Zee Action
-http://103.175.73.12:8080/live/270/270_0.m3u8
-#EXTINF:-1 group-title="Hindi movies",Action Hollywood Movies
-https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-
-#EXTINF:-1 tvg-id="StarGold2.in@SD",Star Gold 2 (576p)
-http://103.253.18.58:8000/play/a00r
-#EXTINF:-1 tvg-id="StarGoldRomance.in@SD",Star Gold Romance (576p)
-http://103.253.18.58:8000/play/a017
-#EXTINF:-1 tvg-id="StarGoldSelect.in@HD",Star Gold Select HD (1080p)
-http://103.253.18.58:8000/play/a02u
-
-#EXTINF:-1 tvg-id="StarGoldThrills.in@SD",Star Gold Thrills (576p)
-#EXTVLCOPT:http-referrer=http://www.jiotv.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://103.157.248.140:8000/play/a00b/index.m3u8
-#EXTINF:-1 tvg-id="StarGoldThrills.in@SD",Star Gold Thrills (576p)
-http://103.253.18.58:8000/play/a00o
 
 #EXTINF:-1 tvg-id="StarSports1.in@HD",Star Sports 1 HD (1080p)
 http://103.253.18.58:8000/play/a00m
 #EXTINF:-1 tvg-id="StarSports2Hindi.in@HD",Star Sports 2 Hindi HD (1080p)
 http://103.157.248.140:8000/play/a01m/index.m3u8
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 4
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
 
-# ─────────── Documentary───────────
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", beIN Sports Xtra
+https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 
-#EXTINF:-1 ,Discovery HD
-https://mflixott.com/tv/toffee-by-maruf/live.php?id=discovery_hd&e=.m3u8
-#EXTINF:-1 ,Discovery
-https://mflixott.com/tv/toffee-by-maruf/live.php?id=discovery_sd&e=.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 1
+https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://imglink.cc/cdn/eEZmseF3Tb.jpg", Geography HD
-http://202.70.146.135:8000/play/a05o/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 2
+https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
 
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://imglink.cc/cdn/eEZmseF3Tb.jpg", Adventure Earth
-https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 3
+https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 4
+https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
 
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://imglink.cc/cdn/eEZmseF3Tb.jpg", BBC Earth
-https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8
+#EXTINF:-1 group-title="Sports",FIFA World Cup 2026 🇧🇷[coming]
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 
+#EXTINF:-1 group-title="Sports",CAZE TV 1 🇧🇷
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://imglink.cc/cdn/eEZmseF3Tb.jpg", Wild Earth
-https://wildearth-plex.amagi.tv/master.m3u8
-
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://imglink.cc/cdn/ebC033LNf2.png", Animal Planet
-https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
+# ─────────── FIFA Sports───────────
 
 
+#EXTINF:-1 group-title="FIFA" tvg-logo="https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png", FIFA Plus English 🏆
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+
+
+#EXTINF:-1 group-title="FIFA" tvg-logo="https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png", Caze TV 🇧🇷 Brazil
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+
+#EXTINF:-1 group-title="FIFA" tvg-logo="https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png", Caze TV B - 🇧🇷 Brazil
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA",Bein Sports 1 720p
