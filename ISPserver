@@ -7,28 +7,3 @@ http://172.22.22.22/hls/tv2.m3u8
 http://172.22.22.22/hls/tv3.m3u8
 #EXTINF:-1 group-title="tv", Channels 4
 http://172.22.22.22/hls/tv4.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0a0gZr.jpg" group-title="BANGLA", GAZI TV
-http://otv.ftpbd.net/streams/108/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0a0gZr.jpg" group-title="BANGLA", GAZI TV
-
-http://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
-
-#EXTINF:-1 tvg-
-
-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Star_Jalsha_logo. jpg" group-
-
-title="BANGLA", STAR JALSHA
-
-https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-
-
-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png"
-
-group-title="BANGLA", JALSHA MOVIES
-
-https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
