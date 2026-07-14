@@ -72,12 +72,16 @@ https://cdn-tt.pages.dev/ch3.m3u8
 https://kazimmt.ami.bd/playlist/TF/TF-1.m3u8
 
 
-#EXTINF:-1,Football World Cup 2026 4K
-http://fastshare1.com/live/25711345/late8airline/745270.ts
-
-
 #EXTINF:-1, somoy tv 2
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
 
 #EXTINF:-1 group-title="FIFA World Cup 2026",Unite8 Sports 2 HD
 http://fastshare1.com:80/live/25711345/late8airline/745202.ts
+
+#EXTINF:-1 group-title="FIFA World Cup 2026",Unite8 Sports 2 HD
+http://103.89.248.50:8082/1LIVE/index.fmp4.m3u8?token=a77e07240b06ce9baf9694444c3e4d19a94bfa36-7cb0fbfaee0262b0d033b580d0977014-1784057200-1784046400
+
+#EXTINF:-1 group-title="FIFA World Cup 2026",Unite8 Sports 2 HD
+http://103.89.248.58:8082/1LIVE/index.fmp4.m3u8?token=eb6d1a94434e7185e88d9627f5295f5fd1a53dcb-857d92cc279bd9fde1c00902bf482188-1784056877-1784046077
+
+
