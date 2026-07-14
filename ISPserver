@@ -14,4 +14,4 @@ http://103.89.248.50:8082/1LIVE/index.fmp4.m3u8?token=a77e07240b06ce9baf9694444c
 #EXTINF:-1 ,u8 2
 http://103.89.248.58:8082/1LIVE/index.fmp4.m3u8?token=eb6d1a94434e7185e88d9627f5295f5fd1a53dcb-857d92cc279bd9fde1c00902bf482188-1784056877-1784046077
 #EXTINF:-1 ,kk 
-http://iptvidn.com/
+http://103.89.248.50:8082/2LIVE/index.fmp4.m3u8
