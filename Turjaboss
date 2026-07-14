@@ -19,19 +19,6 @@ https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Football World Cup 2026", Toffee live 2026
 http://fifabangladesh.top/BRAZIL2/LIVE/play.m3u8?q=1300
 
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://assets-prod.services.toffeelive.com/zUGrjZ4BuUSiBsg_1BeE/posters/62167852-133f-45e3-ba50-42414a345007.png",FIFA WC CHANNEL 1
-#EXTVLCOPT:http-user-agent=okhttp/5.1.0
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/index.m3u8?edge-cache-token=Expires=1783785613~Starts=1783778413~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiM2M5ZTQwYTctYzk5NC00YzlmLWFkMTYtODkyMGNlNzdjYzM2In0~Signature=q3Czv1gcsHZNXQLJ_T5JUtQXqQZZpTpNWy2J3McP_UXtilNLFWCg3lTDPZbUwocF1EGfp-NsU4foJgQPxg4zBw
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://assets-prod.services.toffeelive.com/oDRWpp4Bb1O6C9k7We2Q/posters/50711ff1-bd1c-4f33-ae25-5a31052dfcc3.png",FIFA WC CHANNEL 2
-#EXTVLCOPT:http-user-agent=okhttp/5.1.0
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-2/sst/index.m3u8?edge-cache-token=Expires=1783785613~Starts=1783778413~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiM2M5ZTQwYTctYzk5NC00YzlmLWFkMTYtODkyMGNlNzdjYzM2In0~Signature=q3Czv1gcsHZNXQLJ_T5JUtQXqQZZpTpNWy2J3McP_UXtilNLFWCg3lTDPZbUwocF1EGfp-NsU4foJgQPxg4zBw
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://assets-prod.services.toffeelive.com/V__o054BObUt2AG6LL5C/posters/84590b8d-6430-4ba8-a0a5-757bf2f57c05.png",FIFA WC CHANNEL 6
-#EXTVLCOPT:http-user-agent=okhttp/5.1.0
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-6/index.m3u8?edge-cache-token=Expires=1783785614~Starts=1783778414~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiM2M5ZTQwYTctYzk5NC00YzlmLWFkMTYtODkyMGNlNzdjYzM2In0~Signature=KdVjU55jJfa7e6-UPhXyJFd2roTrOUc4ts_Bz8R-NqbMtBjJGVKEDd5WUKKgFUFvfPxoaRjgT2zvCxvqcjADAw
-
 #EXTINF:-1 group-title="FOOTBALL", t-sports 
 http://103.165.93.31:8095/tsports/video.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", Toffee live 
@@ -74,9 +61,6 @@ https://kazimmt.ami.bd/playlist/TF/TF-1.m3u8
 
 #EXTINF:-1, somoy tv 2
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup 2026",Unite8 Sports 2 HD
-http://fastshare1.com:80/live/25711345/late8airline/745202.ts
 
 #EXTINF:-1 group-title="FIFA World Cup 2026",Unite8 Sports 2 HD
 http://103.89.248.50:8082/1LIVE/index.fmp4.m3u8?token=a77e07240b06ce9baf9694444c3e4d19a94bfa36-7cb0fbfaee0262b0d033b580d0977014-1784057200-1784046400
