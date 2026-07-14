@@ -9,15 +9,9 @@ http://172.22.22.22/hls/tv3.m3u8
 http://172.22.22.22/hls/tv4.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.jpeg", TOFFEE 1
-https://cdn-spotixa.pages.dev/ch1.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.jpeg", TOFFEE 2
-https://cdn-spotixa.pages.dev/ch2.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.jpeg", TOFFEE 3
-https://cdn-spotixa.pages.dev/ch3.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.jpeg", Sony HD
-https://stream.ottplus.live/live/sony_ent_hd_abr/index.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.jpeg", Discovery HD
-https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
+#EXTINF:-1 , u8
+http://103.89.248.50:8082/1LIVE/index.fmp4.m3u8?token=a77e07240b06ce9baf9694444c3e4d19a94bfa36-7cb0fbfaee0262b0d033b580d0977014-1784057200-1784046400
+#EXTINF:-1 ,u8 2
+http://103.89.248.58:8082/1LIVE/index.fmp4.m3u8?token=eb6d1a94434e7185e88d9627f5295f5fd1a53dcb-857d92cc279bd9fde1c00902bf482188-1784056877-1784046077
+#EXTINF:-1 ,kk 
+http://iptvidn.com/
