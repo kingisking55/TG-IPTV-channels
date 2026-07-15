@@ -7,3 +7,28 @@ http://172.22.22.22/hls/tv2.m3u8
 http://172.22.22.22/hls/tv3.m3u8
 #EXTINF:-1 group-title="tv", Channels 4
 http://172.22.22.22/hls/tv4.m3u8
+
+
+#EXTINF:-1 group-title="tv", Channels 5
+http://172.22.22.22/hls/tv5.m3u8
+#EXTINF:-1 group-title="tv", Channels 6
+http://172.22.22.22/hls/tv6.ts
+
+#EXTINF:-1 group-title="tv", Channels 7
+http://172.22.22.22/hls.ts
+#EXTINF:-1 group-title="tv", Channels 8
+http://172.22.22.22/hls.m38
+
+#EXTINF:-1 group-title="tv", Channels 9
+http://172.22.22.22/hls/channels 1.ts
+#EXTINF:-1 group-title="tv", Channels 10
+http://172.22.22.22/hls/dbc.m3u8
+#EXTINF:-1 group-title="tv", Channels 11
+http://172.22.22.22/hls/live.m3u8
+#EXTINF:-1 group-title="tv", Channels 12
+http://172.22.22.22/hls/live.ts
+
+#EXTINF:-1 group-title="tv", Channels 13
+http://172.22.22.22/live.m3u8
+#EXTINF:-1 group-title="tv", Channels 14
+http://172.22.22.22/live.ts
