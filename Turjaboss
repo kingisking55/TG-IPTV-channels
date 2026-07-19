@@ -62,10 +62,13 @@ https://kazimmt.ami.bd/playlist/TF/TF-1.m3u8
 #EXTINF:-1, somoy tv 2
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
 
-#EXTINF:-1 group-title="FIFA World Cup 2026",Unite8 Sports 2 HD
-http://103.89.248.50:8082/1LIVE/index.fmp4.m3u8?token=a77e07240b06ce9baf9694444c3e4d19a94bfa36-7cb0fbfaee0262b0d033b580d0977014-1784057200-1784046400
+#EXTINF:-1 group-title="FIFA World Cup 2026", toffee live boss
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/index.m3u8?edge-cache-token=Expires=1784476873~Starts=1784469673~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiOTQ2YmNmNTQtZTAxZC00NjkzLThiYTQtMzExMTRiZjQxMjJmIn0~Signature=uTUpUnDt00-cxBj-IqvNVl57Grz0ODKo6fviREdezg7og_bbBjagK0cIxATfPTjnhL-KCw45gXFnjiWrBycvDw
 
-#EXTINF:-1 group-title="FIFA World Cup 2026",Unite8 Sports 2 HD
-http://103.89.248.58:8082/1LIVE/index.fmp4.m3u8?token=eb6d1a94434e7185e88d9627f5295f5fd1a53dcb-857d92cc279bd9fde1c00902bf482188-1784056877-1784046077
+#EXTINF:-1 group-title="FIFA World Cup 2026", toffee live boss
+https://bldcmprod-cdn.toffeelive.com/cdn/live/fifa_world_cup/playlist.m3u8
+
+#EXTINF:-1 , toffee live boss is boss
+https://bldcmprod-cdn.toffeelive.com/cdn/live/cnn/playlist.m3u8
 
 
