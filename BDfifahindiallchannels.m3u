@@ -70,6 +70,9 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 EXTINF:-1 tvg-id="MaasrangaTV.bd@SD",Maasranga TV (720p)
 https://trs1.aynaott.com/maasrangatv/index.m3u8
 
+EXTINF:-1 tvg-id="DainikIttefak.bd@sd", Dainik ittefak 
+mvpstream.unibotscdn.com/0aef3c6d-0a15-47f9-9b52-c7165c7e69e9/playlist.m3u8
+
 #EXTINF:-1 tvg-id="NTV.bd@SD",NTV (1080p)
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 #EXTINF:-1 tvg-id="AnandaTV.bd@SD",Ananda TV
