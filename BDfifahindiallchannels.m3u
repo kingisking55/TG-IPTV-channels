@@ -1,13 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="tv", Channels 1 T-sports 
-http://172.22.22.22/hls/tv1.m3u8
-#EXTINF:-1 group-title="tv", Channels 2 somoy
-http://172.22.22.22/hls/tv2.m3u8
-#EXTINF:-1 group-title="tv", Channels 3 t-sports 
-http://172.22.22.22/hls/tv3.m3u8
-#EXTINF:-1 group-title="tv", Channels 4 btv
-http://172.22.22.22/hls/tv4.m3u8 
+#EXTINF:-1 group-title="tv", T-sports 
+http://103.151.60.188:12345/hls/tab_dnhyxro/index.m3u8?t=1786333360640
+#EXTINF:-1 group-title="tv",BTV 
+http://103.151.60.188:12345/hls/tab_77yi094/index.m3u8?t=1786333626876 
 
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",somoy tv
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
@@ -19,57 +15,45 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1 group-title="Bangladesh", channels 1 TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #EXTINF:-1 group-title="Bangladesh",Jamuna TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+http://103.151.60.188:12345/hls/tab_pnnr6i6/index.m3u8?t=1786334440811
 #EXTINF:-1 group-title="Bangladesh",DBC News HD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
+http://103.151.60.188:12345/hls/tab_pfpwxn7/index.m3u8?t=1786334124771
 #EXTINF:-1 group-title="Bangladesh", Maasranga TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 #EXTINF:-1 group-title="Bangladesh",Ekattor HD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+http://103.151.60.188:12345/hls/tab_38p8g8w/index.m3u8?t=1786334286628
 #EXTINF:-1 group-title="Bangladesh",Channel 24 HD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+http://103.151.60.188:12345/hls/tab_mdsrq70/index.m3u8?t=1786333933750
 #EXTINF:-1 group-title="Bangladesh",ATN News
-https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+http://103.151.60.188:12345/hls/tab_akl6z54/index.m3u8?t=1786333580214
 #EXTINF:-1 group-title="Bangladesh",News 24 HD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
+http://103.151.60.188:12345/hls/tab_2z0ulw2/index.m3u8?t=1786334683166
 #EXTINF:-1 group-title="Bangladesh",Star News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
 #EXTINF:-1 group-title="Bangladesh", দেশ টিভি (desh tv)
-https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
-#EXTINF:-1 group-title="Bangladesh",Deepto TV HD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
+http://103.151.60.188:12345/hls/tab_718qdpy/index.m3u8?t=1786334180852
 #EXTINF:-1 group-title="Bangladesh",Channel 9 HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 #EXTINF:-1 group-title="Bangladesh",Channel I HD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+http://103.151.60.188:12345/hls/tab_9hk6cpo/index.m3u8?t=1786333989686
 
 
 #EXTINF:-1 group-title="Bangladesh",Bangla Vision
-https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+http://103.151.60.188:12345/hls/tab_lgcgvz8/index.m3u8?t=1786333697663
 #EXTINF:-1 group-title="Bangladesh",NTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
-
-#EXTINF:-1 group-title="Bangladesh",BTV songsod
-https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+http://103.151.60.188:12345/hls/tab_ivpt1pg/index.m3u8?t=1786344473760
 
 #EXTINF:-1 group-title="Bangladesh",Independent TV 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 
-#EXTINF:-1 tvg-id="ATNNews.bd@SD",ATN News (1080p)
-https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/1706.m3u8
-#EXTINF:-1 tvg-id="ATNMusic.bd@SD",ATN Music (360p)
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ATNMusic.bd@SD",ATN bangla
+http://103.151.60.188:12345/hls/tab_p8b5uc2/index.m3u8?t=1786333518617
 
 #EXTINF:-1,Drama 24
 https://vods2.aynaott.com/gseriesDrama/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://imglink.cc/cdn/1_dUKmt1Oe.png", G Series Drama
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="DBCNews.bd@SD",DBC News (1080p)
-https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
-
-#EXTINF:-1 tvg-id="NTV.bd@SD",NTV (1080p)
-https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 #EXTINF:-1 tvg-id="AnandaTV.bd@SD",Ananda TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/live-orgin/anandatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="GaziTV.bd@SD",Gazi TV
@@ -79,7 +63,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-1 tvg-id="MyTV.bd@SD",My TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/live-orgin/mytv-up-off.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="News21BanglaTV.bd@SD",News 21 Bangla TV
-http://103.190.133.68:1935/news21live/live/playlist.m3u8
+http://103.151.60.188:12345/hls/tab_sxwqihq/index.m3u8?t=1786333750668
 #EXTINF:-1 tvg-id="RupashiBanglaTV.bd@SD",Rupashi Bangla TV (720p)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ruposhibangla.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="GreenTV.bd@SD",Green TV (1080p)
@@ -91,7 +75,7 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/ekhon-tv.png" group-title="OTAPP",Ekhon TV
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
-https://book4u.top/worker/index.php?path=api/0456773b8a/playlist.m3u8
+http://103.151.60.188:12345/hls/tab_zqfxh8p/index.m3u8?t=1786334223051
 
 #EXTINF:-1 ,SA TV
 http://fastshare1.com:8080//live/25711345/late8airline/3814.ts
@@ -106,12 +90,10 @@ https://mtlivestream.com/hls/asian/ytlive/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/bijoy-tv.png" group-title="OTAPP",Bijoy TV
-#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
-https://ftp.assadikb.workers.dev/stream.m3u8?id=/bijoytv
+http://103.151.60.188:12345/hls/tab_l4wassv/index.m3u8?t=1786333835592
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/mohona-tv.png" group-title="OTAPP",Mohona TV
-#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
-https://ftp.assadikb.workers.dev/stream.m3u8?id=/mohona_tv
+http://103.151.60.188:12345/hls/tab_2nru9eu/index.m3u8?t=1786334536578
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/boishakhi-tv.png" group-title="OTAPP",Boishakhi TV
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
@@ -130,6 +112,8 @@ https://dbcanada.sonarbanglatv.com/jhankartv/jtv/index.m3u8
 https://live1.entertv.com.bd/entertv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,PROBASHI TV
 http://158.69.24.53:8080/probashi_tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 , Global tv 
+http://103.151.60.188:12345/hls/tab_pbtg1bv/index.m3u8?t=1786334380191
 
 
 
