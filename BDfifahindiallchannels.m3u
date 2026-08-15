@@ -50,10 +50,6 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1 group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢" tvg-logo="https://i.postimg.cc/bYSFJHG9/20240822-230812.png",Deepto
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
-
-Channel 24 HD
-Channel 9 HD
-
 #EXTINF:-1 group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢" tvg-logo="https://i.postimg.cc/W3WS3tVK/20240822-225402.png",Channel i
 https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
 
@@ -75,28 +71,16 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1R8bF1d6/20240822-230344.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Maasranga 
 https://mtv.sunplex.live/MAASRANGA/index.m3u8
 
-
-
-#EXTINF:-1 group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/45/Star_News_Bangladesh.png",Star News
-#EXTVLCOPT:http-referrer=https://www.jagobd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/starnewsbd.stream/playlist.m3u8?wmsAuthSign=|Referer=https://www.jagobd.com/
-
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8knh34Z5/iju-Jfmd.png"group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",News 21 Bangla TV
-http://103.190.133.68:1935/news21live/live/playlist.m3u8
-
-#EXTINF:-1 group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢"tvg-logo="https://i.postimg.cc/wThf5qQt/20240822_230921.png",News 24
-https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8
-
-
 #EXTINF:-1,Drama 24
 https://vods2.aynaott.com/gseriesDrama/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://imglink.cc/cdn/1_dUKmt1Oe.png", G Series Drama
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢"tvg-logo="https://i.postimg.cc/wThf5qQt/20240822_230921.png",News 24
+https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8knh34Z5/iju-Jfmd.png"group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",News 21 Bangla TV
+http://103.190.133.68:1935/news21live/live/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/Xq98gLdM/20240822_231218.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Global TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/index.m3u8
@@ -119,12 +103,10 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="MyTV.bd@SD",My TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/live-orgin/mytv-up-off.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="News21BanglaTV.bd@SD",News 21 Bangla TV
-http://103.151.60.188:12345/hls/tab_sxwqihq/index.m3u8?t=1786333750668
+
+
 #EXTINF:-1 tvg-id="RupashiBanglaTV.bd@SD",Rupashi Bangla TV (720p)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ruposhibangla.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="GreenTV.bd@SD",Green TV (1080p)
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="BoishakhiTV.bd@SD",Boishakhi TV
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 
