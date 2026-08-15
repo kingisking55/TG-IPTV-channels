@@ -1,53 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="tv", T-sports 
-http://103.151.60.188:12345/hls/tab_dnhyxro/index.m3u8?t=1786333360640
-#EXTINF:-1 group-title="tv",BTV 
-http://103.151.60.188:12345/hls/tab_77yi094/index.m3u8?t=1786333626876 
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",somoy tv
-https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
-
 #EXTINF:-1 group-title="Bangladesh", Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 group-title="Bangladesh", Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
-#EXTINF:-1 group-title="Bangladesh", channels 1 TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
-#EXTINF:-1 group-title="Bangladesh",Jamuna TV
-http://103.151.60.188:12345/hls/tab_pnnr6i6/index.m3u8?t=1786334440811
-#EXTINF:-1 group-title="Bangladesh",DBC News HD
-http://103.151.60.188:12345/hls/tab_pfpwxn7/index.m3u8?t=1786334124771
-#EXTINF:-1 group-title="Bangladesh", Maasranga TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
-#EXTINF:-1 group-title="Bangladesh",Ekattor HD
-http://103.151.60.188:12345/hls/tab_38p8g8w/index.m3u8?t=1786334286628
-#EXTINF:-1 group-title="Bangladesh",Channel 24 HD
-http://103.151.60.188:12345/hls/tab_mdsrq70/index.m3u8?t=1786333933750
-#EXTINF:-1 group-title="Bangladesh",ATN News
-http://103.151.60.188:12345/hls/tab_akl6z54/index.m3u8?t=1786333580214
-#EXTINF:-1 group-title="Bangladesh",News 24 HD
-http://103.151.60.188:12345/hls/tab_2z0ulw2/index.m3u8?t=1786334683166
-#EXTINF:-1 group-title="Bangladesh",Star News
-https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
-#EXTINF:-1 group-title="Bangladesh", দেশ টিভি (desh tv)
-http://103.151.60.188:12345/hls/tab_718qdpy/index.m3u8?t=1786334180852
-#EXTINF:-1 group-title="Bangladesh",Channel 9 HD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
-#EXTINF:-1 group-title="Bangladesh",Channel I HD
-http://103.151.60.188:12345/hls/tab_9hk6cpo/index.m3u8?t=1786333989686
 
 
-#EXTINF:-1 group-title="Bangladesh",Bangla Vision
-http://103.151.60.188:12345/hls/tab_lgcgvz8/index.m3u8?t=1786333697663
-#EXTINF:-1 group-title="Bangladesh",NTV
-http://103.151.60.188:12345/hls/tab_ivpt1pg/index.m3u8?t=1786344473760
+Channel 24 HD
+Channel 9 HD
+Channel I HD
 
-#EXTINF:-1 group-title="Bangladesh",Independent TV 
-https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
-
-#EXTINF:-1 tvg-id="ATNMusic.bd@SD",ATN bangla
-http://103.151.60.188:12345/hls/tab_p8b5uc2/index.m3u8?t=1786333518617
 
 #EXTINF:-1,Drama 24
 https://vods2.aynaott.com/gseriesDrama/index.m3u8
@@ -70,19 +32,10 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8#EXTINF:-1 tvg-id="BoishakhiTV.bd@SD",Boishakhi TV
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 
-#EXTINF:-1 tvg-id="MovieBangla.bd@SD",Movie Bangla
-http://alvetv.com/moviebanglatv/8080/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/ekhon-tv.png" group-title="OTAPP",Ekhon TV
-#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
-http://103.151.60.188:12345/hls/tab_zqfxh8p/index.m3u8?t=1786334223051
-
 #EXTINF:-1 ,SA TV
 http://fastshare1.com:8080//live/25711345/late8airline/3814.ts
 
-#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/bangla-tv.png" group-title="OTAPP",Bangla TV
-#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
-https://ftp.assadikb.workers.dev/stream.m3u8?id=/bangla_tv
+bangla_tv
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/asian-tv.png" group-title="OTAPP",Asian TV
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
